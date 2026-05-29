@@ -1,9 +1,20 @@
-Basic Git Commands
-   git config --global user.name "NAME"
-   git confif --global user.email "EMAIl"
-
+// Basic Git Commands (5)
 1. git init
 2. git add / git add .
 3. git commit -m ""
 4. git restore
 5. git status
+
+
+// Local to Github
+1. git remote add origin https://github.com/Nikhil-Swami/github-for-devops-workshop.git
+2. git remote -v 
+3. git status
+
+ # for token " git remote set-url origin https://taken@github.com/Nikhil-Swami/github-for-devops-workshop.git
+4. git remote set-url origin https://github.com/Nikhil-Swami/github-for-devops-workshop.git 
+5. git remote -v 
+6. git push origin master
+
+**This is new changes.
+
