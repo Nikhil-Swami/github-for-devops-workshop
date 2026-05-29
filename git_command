@@ -15,6 +15,7 @@
 4. git remote set-url origin https://github.com/Nikhil-Swami/github-for-devops-workshop.git 
 5. git remote -v 
 6. git push origin master
+7. git pull origin master
 
 **This is new changes.
 
