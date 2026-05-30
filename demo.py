@@ -1,4 +1,3 @@
-
 """Simple addition program."""
 
 NUM1 = 10
