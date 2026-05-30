@@ -1,5 +1,8 @@
-num1 = 10
-num2 = 5
+"""Simple addition program."""
 
-sum = num1 + num2
-print("Sum is:", sum)
+NUM1 = 10
+NUM2 = 5
+
+TOTAL = NUM1 + NUM2
+
+print("Sum is:", TOTAL)
